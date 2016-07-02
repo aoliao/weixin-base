@@ -1,2 +1,2 @@
-# weixin-base
-support weixin api base implemention
+# weixin-corp
+support weixin corp api base implemention
